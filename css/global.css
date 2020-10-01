@@ -5,6 +5,19 @@
     font-weight: bold;
 }
 
+
+@media screen and (max-width: 800px){
+	form{
+		display: none;
+	}
+}
+
+@media screen and (max-width: 600px){
+ .img a{
+	 display: none;
+ }
+}
+
 * { 
     font-family: 'My Lucida', Console;
 }
@@ -41,6 +54,7 @@ header .user a {
     color: #89949b;
     padding-top: 5px;
 }
+
 
 main h2 {
     margin-top: 4px;
@@ -98,7 +112,6 @@ h5 {
 .name p img { 
     margin-left: 12px;
 }
-
 
 .stats-links {
     color: #4b5c66;
