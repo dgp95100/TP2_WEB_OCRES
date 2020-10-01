@@ -51,7 +51,7 @@ main article {
     display: inline-block;
 }
 
-h3 {
+h7 {
     color: #b8c3c9;
     text-transform: uppercase;
     font-size: 11px;
@@ -83,7 +83,7 @@ nav ul li:last-child {
     margin-bottom: 30px;
 }
 
-h1 {
+h5 {
     color: #4b5c66;
     font-size: 24px;
     font-weight: normal;
