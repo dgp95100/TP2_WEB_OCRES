@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'My Lucida';
     src: url('../font/LucidaGrande.ttf');
-    font-style: normal; 
+    font-style: normal;
     font-weight: bold;
 }
 
@@ -91,6 +91,7 @@ main header aside img {
     border: 1px solid #dadada;
     border-radius: 50%;
     box-shadow: 0 0 5px #cecece;
+    margin-right: 10px;
 }
 
 nav ul li:last-child {
